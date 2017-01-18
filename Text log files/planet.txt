@@ -1,0 +1,20 @@
+1|Earth|78% Nitrogen, 20% Oxygen, 1% Argon, 1% Carbon Dioxide|9.81|Humans|Forests, Mountains, Glaciers, Plains|0.0|1
+2|Vulcan|60% Nitrogen, 25% Oxygen, 10% Helium, 5% Carbon Dioxide|10.71|Vulcans|Deserts, Mountain, Wilderness|16.0|2
+3|Cardassia Prime|64% Nitrogen, 20% Oxygen, 14% Carbon Dioxide, 2% Hydrogen|8.87|Cardassian|Deserts, Flatlands|27.0|3
+4|Bajor|56% Nitrogen, 18% Oxygen, 11% Carbon Dioxide, 8% Hydrogen, 5% Helium, 2% Methane|10.12|Bajoran|Forests, Wilderness, Valleys|12.0|4
+5|Betazed|76% Nitrogen, 20% Oxygen, 3% Helium, 1% Carbon Dioxide|9.66|Betazoid|Mountains, Forests, Plains, Valleys|9.0|5
+6|Romulus|71% Nitrogen, 18% Oxygen, 8% Carbon Dioxide, 3% Helium|11.56|Romula|Plains, Forests, Glaciers|33.0|6
+7|Andoria (moon)|67% Nitrogen, 22% Oxygen, 5% Helium, 4% Hydrogen, 2% Carbon Dioxide|9.71|Andorians|Mountains, Glaciers, Valleys|36.0|7
+8|Trill|64% Nitrogen, 24% Oxygen, 8% Helium, 4% Carbon Dioxide|9.96|Trill|Mountains, Forests, Valleys|21.0|8
+9|Benzar|58% Helium, 26% Carbon Dioxide, 10% Nitrogen, 6% Oxygen|12.24|Benzite|Rocky, Valleys, Forests|47.0|9
+10|Bolarus IX|40% Nitrogen, 32% Helium, 20% Carbon Dioxide, 8% Oxygen|11.32|Bolian|Plains, Valleys, Forests|54.0|10
+11|Saurus|52% Nitrogen, 22% Oxygen, 18% Carbon Dioxide, 4% Methane, 4% Hydrogen|9.37|Saurian|Deserts, Plains, Forests|41.0|11
+12|Weytahn|41% Nitrogen, 21% Methane, 18% Oxygen, 12% Carbon Dioxide, 8% Helium|10.09|Andorians|Deserts, Mountain, Wilderness|71.0|12
+13|Regula|54% Helium, 24% Nitrogen, 18% Carbon Dioxide, 4% Oxygen|10.54|None|Deserts, Mountains, Valleys, Rocky|63.0|13
+14|Tau Cygna V|36% Nitrogen, 30% Helium, 22% Oxygen, 12% Carbon Dioxide|11.14|None|Rocky, Wilderness, Mountains|78.0|14
+15|Mudd|54% Helium, 24% Methane, 14% Carbon Dioxide, 8% Nitrogen|12.02|Mudd androids|Deserts, Plains, Valleys|67.0|15
+16|Theta 116 VII|57% Nitrogen, 26% Methane, 17% Liquid neon|11.96|None|Glaciers, Mountains, Valleys|76.0|16
+17|Indri VII|64% Nitrogen, 26% Oxygen, 10% Carbon Dioxide|10.64|None|Forests, Wilderness, Valleys|57.0|17
+18|Risa|71% Nitrogen, 20% Oxygen, 8% Carbon Dioxide, 1% Argon|9.89|Risians|Forests, Wilderness, Mountains|91.0|18
+19|Silver Blood|54% Helium, 28% Methane, 11% Mercury, 7% Hydrogen|10.24|None|Mountains, Valleys, Plains|82.0|19
+20|Ha’Dara|56% Nitrogen, 18% Methane, 12% Carbon Dioxide, 10% Helium, 4% Oxygen|10.57|None|Forests, Mountains, Wilderness, Valleys|18.0|20

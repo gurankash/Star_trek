@@ -1,0 +1,20 @@
+1|Antiproton beam|Fires a confined beam of antiprotons. This weapon is capable of destroying whole planets and has the ability to penetrate shields and hull.|0.29|0
+2|Disruptor|There are varieties of disruptor weapon types. Disruptor rifles output sound vibrations, which are measured in megajoules. Starships armed with disruptor weapon system have the ability to absorb sound attacks. Their capacity is also measured in megajoules.|0.05|0
+3|Forced plasma beam|Discharges a group of ionized particle. This beam can be traced back to its origin with a tricorder.|0.37|0
+4|Heavy graviton beam|Heavy graviton bream fires a beam towards the highest gravitational field closet to it.|0.76|0
+5|Energy dissipator|This weapon is capable of draining the energy of a targeted ship. It disables their engines, weapons, and shields.|0.19|0
+6|Galor class phaser bank| Galor phaser banks are primarily equipped on war ships. This weapon has the ability to interfere with and deflect the energy of any phaser beam.|0.12|0
+7|X-ray laser|This weapon utilizes x-rays in form of a laser emission. The x-rays have to ability to disrupt the target ship’s radar.|0.34|0
+8|Particle cannons|Many developed civilizations operate this type of weapon on their starships. This weapon functions by bombarding a target with energetic particles via a particle beam or projectile-like bursts. In the case of high-yield particle impacts, the particle residue may cause oxidization and thermal shock effects to the hull.|0.51|0
+9|Isolytic burst|This weapon has the ability to form a subspace tear on its targeted ship’s warp cores. Once detonated the burst will continue to expand unless sealed by the target.|0.44|0
+10|Optronic weapons|This is an advanced weapon system that fires optronic pulses. It fires strong pulses with a small range.|0.1|0
+11|Phase cannon|This is an energy weapon, a of type particle weapon. Phase cannon are a successor to plasma cannons. This weapon was designed as primary defence.|0.2|0
+12|Phased polaron beam|This weapon is an extremely powerful directed energy weapon that fires a beam of polarons at the target.|0.38|0
+13|Phaser|Phasers are the most common energy weapon in the arsenal of Starfleet. Phasers fire nadion particle beams and based on the intensity and field of the beam, a wide variety of effects can be achieved.|0.02|0
+14|Phaser cannon|A Phaser cannon is a type of phaser bank used by the Federation. The shipmounted Federation cannon is an optronically targeted phaser. The phaser cannons are able to fire phaser bolts simultaneously but only in one direction.|0.24|0
+15|Plasma wave|A plasma wave is a type of weapon that emits an omnidirectional burst of plasma, creating an energetic wave that is nearly impossible to evade. The weapon is most useful when used against multiple small targets, as it allows the user to attack several targets at once.|0.67|0
+16|Proton beam|The proton beam is a type of directed energy weapon. Ships armed with proton beams, are able to fire streams of tightly focused protons capable of penetrating any deflector shield.|0.41|0
+17|Pulse phased weapon|A pulse phased weapon is a form of Starfleet weaponry. This weapon has the ability to send small strong pulses of directed energy beams at its target.|0.17|0
+18|Pulsed phase cannon|A pulsed phase cannon is an optronically targeted phaser. The pulsed cannons are able to fire strong bolts of grouped energy beam pulses.|0.34|0
+19|Quantum resonance charge|The quantum resonance charge is a proton charged weapon that has the ability to rapidly breach Starship shields.|0.48|0
+20|Subatomic disruptor|The subatomic disruptor has the ability to break apart target’s molecular structure. This weapon can also break energy molecules by 20% of its original structure.|0.08|0
